@@ -33,7 +33,7 @@ Feel free to connect with me for all things tech, or just to say hello! Let's bu
 
 ---
 
-## Let's Build Together
+## Like My Work?
 
 [![Let's Build Together](https://img.shields.io/badge/🚀%20Let's%20Build%20Together-7C3AED?style=for-the-badge&logo=github&logoColor=white)](mailto:sydugarisnehith@gmail.com)
 
