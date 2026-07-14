@@ -14,7 +14,7 @@
 
 ## Glad to see you here!
 
-[![Profile views](https://komarev.com/ghpvc/?username=S-Snehith&color=blue)](https://github.com/S-Snehith)
+[![Profile views](https://komarev.com/ghpvc/?username=S-Snehith-views&color=blue)](https://github.com/S-Snehith)
 
 I am a Full-Stack Engineer and AI Developer currently pursuing my B.Tech in Computer Science (AI & ML) at CMR Institute of Technology, Hyderabad. I design and build production-grade web applications, intelligent machine learning pipelines (RAG), and secure backend systems that resolve architectural challenges like redundancy and data safety.
 
