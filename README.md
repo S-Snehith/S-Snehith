@@ -40,7 +40,7 @@ Feel free to connect with me for all things tech, or just to say hello! Let's bu
 #### Talking about Personal Stuff:
 
 * 🚀 I’m currently exploring gen AI and cloud engineering
-* 💬 Ask me anything here! I am happy to help.
+* 💬 Ask me anything [here!](https://github.com/S-Snehith/S-Snehith/issues/1) I am happy to help.
 * 👾 Fun fact: My best commits happen after midnight.
 * 📫 Reach me out: sydugarisnehith@gmail.com
 
