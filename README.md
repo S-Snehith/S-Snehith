@@ -26,7 +26,7 @@ Feel free to connect with me for all things tech, or just to say hello! Let's bu
 
 ---
 
-### 💡 My Motto
+### ✨ Dev Quote
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Every+commit+is+a+step+toward+mastery." alt="Typing SVG" />
 </p>
