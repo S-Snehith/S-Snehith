@@ -14,13 +14,15 @@
 
 ## Glad to see you here!
 
-<p align="left">
-  <img src="https://komarev.com/normal-badge/?username=S-Snehith&color=blueviolet&style=flat-square" alt="Profile Views">
-</p>
+[![Profile views](https://komarev.com/ghpvc/?username=S-Snehith&color=blue)](https://github.com/S-Snehith)
 
 I am a Full-Stack Engineer and AI Developer currently pursuing my B.Tech in Computer Science (AI & ML) at CMR Institute of Technology, Hyderabad. I design and build production-grade web applications, intelligent machine learning pipelines (RAG), and secure backend systems that resolve architectural challenges like redundancy and data safety.
 
 My engineering approach centers on security, efficiency, and automated workflows — from implementing cryptographic deduplication (SHA-256) and thread locks for document concurrency, to building vector database search indexes and integrating local LLM environments.
+
+I'm an explorer of new tech, an avid problem-solver, and someone who enjoys turning complex ideas into working systems. When I'm not coding, you'll find me sharpening my DSA skills or diving deeper into GenAI tools.
+
+Feel free to connect with me for all things tech, or just to say hello! Let's build something impactful together. 🚀
 
 ---
 
