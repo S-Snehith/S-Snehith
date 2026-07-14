@@ -1,7 +1,7 @@
 # Hey there 👋, I'm Snehith!
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-username" target="_blank">
+  <a href="https://www.linkedin.com/in/snehith94/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:sydugarisnehith@gmail.com">
