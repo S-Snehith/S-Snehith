@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./banner.png" alt="S-Snehith Banner" width="100%">
-</p>
-
-<p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/B.TECH-CSE%20(AI%20%26%20ML)-6f42c1?style=for-the-badge" alt="B.Tech">
   </a>
