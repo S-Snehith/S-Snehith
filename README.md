@@ -1,70 +1,89 @@
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/B.TECH-CSE%20(AI%20%26%20ML)-6f42c1?style=for-the-badge" alt="B.Tech">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/COLLEGE-CMRIT-6f42c1?style=for-the-badge" alt="College">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LOCATION-HYDERABAD%2C%20INDIA-6f42c1?style=for-the-badge" alt="Location">
-  </a>
-</p>
+# Hey there 👋, I'm Snehith!
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:sydugarisnehith@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/S-Snehith">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-black?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
-<p align="center">
+## Glad to see you here!
+
+<p align="left">
   <img src="https://komarev.com/normal-badge/?username=S-Snehith&color=blueviolet&style=flat-square" alt="Profile Views">
 </p>
 
----
+I am a Full-Stack Engineer and AI Developer currently pursuing my B.Tech in Computer Science (AI & ML) at CMR Institute of Technology, Hyderabad. I design and build production-grade web applications, intelligent machine learning pipelines (RAG), and secure backend systems that resolve architectural challenges like redundancy and data safety.
 
-## 🚀 About Me
-
-I am a **Full-Stack Engineer and AI Developer** currently pursuing my B.Tech in Computer Science (AI & ML) at CMR Institute of Technology, Hyderabad. I design and build production-grade web applications, intelligent machine learning pipelines (RAG), and secure backend systems that resolve architectural challenges like redundancy and data safety.
-
-My engineering approach centers on **security, efficiency, and automated workflows** — from implementing cryptographic deduplication (SHA-256) and thread locks for document concurrency, to building vector database search indexes and integrating local LLM environments.
-
-**Open To:** Full-Stack Engineering Roles • AI/ML Internships • Backend Developer Opportunities • Open Source Collaboration
+My engineering approach centers on security, efficiency, and automated workflows — from implementing cryptographic deduplication (SHA-256) and thread locks for document concurrency, to building vector database search indexes and integrating local LLM environments.
 
 ---
 
-## 🛠️ Tech Stack
+### ⚡ Random Dev Quote::
 
-### 💻 Languages
+> "Every commit is a step toward mastery."
+
+---
+
+### 🚀 Let's Build Together
+
+#### Talking about Personal Stuff:
+
+* 🚀 I’m currently exploring gen AI and cloud engineering
+* 💬 Ask me anything here! I am happy to help.
+* 👾 Fun fact: My best commits happen after midnight.
+* 📫 Reach me out: sydugarisnehith@gmail.com
+
+#### 💙 Things I Love
+
+* 💡 Exploring new technologies and building cool stuff.
+* 💻 Solving coding challenges and writing clean, efficient code.
+
+---
+
+### Languages and Tools:
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,typescript,python,java,html,css" alt="Languages" />
-  </a>
-</p>
-
-### ⚙️ Backend & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend & Databases" />
-  </a>
-</p>
-
-### 🔧 Tools & Technologies
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,python,java,html,css,nodejs,express,mongodb,mysql,git,vscode,postman" alt="Languages and Tools" />
   </a>
 </p>
 
 ---
 
-## 💡 AI & Systems Expertise
+### Projects and Dev Stuffs:
 
-*   **DocuMind RAG Chat System** — Built a self-hosted RAG pipeline integrating FAISS vector database, SentenceTransformers, and local LLMs (Ollama) to perform semantically accurate document querying.
-*   **Enterprise Document Workspace** — Developed a secure MERN portal featuring cryptographic file deduplication (SHA-256) and concurrency checkout locks.
-*   **E-Commerce Shop NodeJS** — Engineered a Node/Express MVC web shop featuring session-based authentication, CSRF security, and PDF invoice generation via PDFKit.
+<details>
+<summary>⚡ Github Stats</summary>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Snehith&show_icons=true&theme=radical" alt="Snehith's GitHub Stats">
+</p>
+</details>
+
+<details>
+<summary>🔥 Github Streak</summary>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Snehith&theme=radical" alt="Snehith's GitHub Streak">
+</p>
+</details>
+
+<details>
+<summary>🛠️ Featured Projects Details</summary>
+
+*   **[DocuMind-RAG-Chat-System](https://github.com/S-Snehith/DocuMind-RAG-Chat-System)**: An intelligent document assistant using Retrieval-Augmented Generation (RAG). Built using React, FastAPI, FAISS, and local LLMs (Ollama).
+*   **[Enterprise-Document-Workspace](https://github.com/S-Snehith/Enterprise-Document-Workspace)**: A secure document portal featuring role-based access control (RBAC), real-time document locks, and SHA-256 deduplication.
+*   **[E-Commerce-Shop-NodeJS](https://github.com/S-Snehith/E-Commerce-Shop-NodeJS)**: A robust MVC e-commerce platform with session auth, input validation, and dynamic PDF invoice generation.
+</details>
+
+---
+
+<p align="center">
+  Show some 💖 by starring some of the repositories!
+</p>
