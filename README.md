@@ -33,7 +33,9 @@ Feel free to connect with me for all things tech, or just to say hello! Let's bu
 
 ---
 
-### 🚀 Let's Build Together
+## Let's Build Together
+
+[![Let's Build Together](https://img.shields.io/badge/🚀%20Let's%20Build%20Together-E17055?style=for-the-badge)](mailto:sydugarisnehith@gmail.com)
 
 #### Talking about Personal Stuff:
 
